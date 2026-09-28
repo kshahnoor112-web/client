@@ -1,0 +1,6 @@
+{
+  "name": "MetroHealth Regional Hospital",
+  "description": "Comprehensive regional medical center with 24/7 emergency care, online appointment scheduling, physician directory, interactive patient portal, and live hospital capacity tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
